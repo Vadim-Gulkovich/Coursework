@@ -1,4 +1,4 @@
-package com.coursework.coursework.controllers;
+package com.coursework.coursework;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
